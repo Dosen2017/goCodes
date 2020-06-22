@@ -1,0 +1,13 @@
+{
+  "User": "suds",
+  "Passwd": "Aa1122334###",
+  "Net": "tcp",
+  "Addr":"rm-wz9367w216k67j0km9o.mysql.rds.aliyuncs.com",
+  "DBName":"lzsdk_nw",
+
+  "LogFile": "cron.log",
+  "LogDir": "./",
+
+  "Spec": "*/5 * * * *",
+  "Days": 365
+}
